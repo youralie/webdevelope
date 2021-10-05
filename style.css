@@ -1,0 +1,38 @@
+
+.body {
+    font-style: italic;
+    background-color: #b2c35638;
+}
+
+.navbar-collapse{
+    text-align: center;
+}
+nav{
+    background-color: bisque;
+}
+.about_me{
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: 5% 40% 5% 30% 20%;
+    justify-content: center;
+    align-content: center;
+}
+h4{
+    text-align: center;
+}
+
+.about_img{
+    width: 500px;
+    height: 500px;
+}
+.cardimage {
+    
+    height: 250px;
+}
+
+footer{
+    background-color: beige;
+}
+a{
+    text-decoration: none;
+}
